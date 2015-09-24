@@ -1,4 +1,9 @@
 # baidu-pwd-sign
+#项目已报废，功能没有问题。登录逻辑是，从百度电脑端从浏览器逆向出来，比较复杂
+#但有更简单的登录方式，没有token,pubkey,加密pwd的步骤，直接传账号密码便可登录
+#路径为http://wappass.baidu.com/wp/login?uname_login=1
+#因该路径有效，所以此项目无用。
+
 
 ##百度登录方式
 ###1获取token
